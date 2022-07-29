@@ -1,48 +1,38 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks solution
+# Frontend Mentor - Huddle landing page with alternating feature blocks
 
-This is a solution to the [Huddle landing page with alternating feature blocks challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [Huddle landing page with alternating feature blocks challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100) on Frontend Mentor.
 
-## Table of contents
+It is built with Tailwind CSS.
 
--   [Overview](#overview)
-    -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [Built with](#built-with)
--   [Author](#author)
+[Live preview](https://sissokho.github.io/frontendmentor-huddle-landing-page/).
 
-## Overview
+## Getting Started
 
-### The challenge
+```bash
+# Clone the project.
+git clone https://github.com/sissokho/frontendmentor-huddle-landing-page.git
 
-Users should be able to:
+# Install the dependencies.
+npm install
 
--   View the optimal layout for the site depending on their device's screen size
--   See hover states for all interactive elements on the page
+# Run the development server. Vite is the default build tool.
+npm run dev
+```
 
-### Screenshot
+Then, open http://localhost:3000 with your browser to see the result
 
-<p align="center">
-  <img src="./images/screenshot-mobile.jpg" alt="Mobile design"/>
-</p>
+## Code formatting
 
-![](./images/screenshot-desktop.jpg)
+To format the code with prettier, you can run the following command:
 
-### Links
+```bash
+npm run format
+```
 
--   Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-using-tailwind-css-6sh6dpg-8](https://www.frontendmentor.io/solutions/huddle-landing-page-using-tailwind-css-6sh6dpg-8)
--   Live Site URL: [https://sissokho.github.io/frontendmentor-huddle-landing-page/](https://sissokho.github.io/frontendmentor-huddle-landing-page/)
+However, this process is automated and done before each commit thanks to [husky](https://typicode.github.io/husky/) and [lint-staged](https://github.com/okonet/lint-staged).
 
-## Built with
+## Credits
 
--   Semantic HTML5 markup
--   Tailwind CSS
--   Flexbox
--   CSS Grid
--   Mobile-first workflow
+-   [Mouhamadou Moustapha SISSOKHO](https://github.com/sissokho)
+-   [Frontend Mentor](https://www.frontendmentor.io/)
 
-## Author
-
--   Frontend Mentor - [@sissokho](https://www.frontendmentor.io/profile/sissokho)
--   Twitter - [@mm_sissokho](https://twitter.com/mm_sissokho)
--   Linkedin - [Mouhamadou Moustapha SISSOKHO](https://www.linkedin.com/in/mouhamadou-moustapha-sissokho-548a55125/)
