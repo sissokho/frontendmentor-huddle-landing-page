@@ -1,10 +1,20 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks
+![](./design/desktop-preview.jpg)
 
-This is my solution to the [Huddle landing page with alternating feature blocks challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100) on Frontend Mentor.
+<h1 align="center">
+Frontend Mentor - Huddle landing page with alternating feature blocks
+</h1>
 
-It is built with Tailwind CSS.
+<div align="center">
+  <h3>
+    <a href="https://sissokho.github.io/frontendmentor-huddle-landing-page">
+      Live Demo
+    </a>
+  </h3>
+</div>
 
-[Live preview](https://sissokho.github.io/frontendmentor-huddle-landing-page/).
+This is a solution to the [Huddle landing page with alternating feature blocks challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+This was built using HTML and Tailwind CSS. Vite is used for the development environment.
 
 ## Getting Started
 
@@ -18,11 +28,9 @@ cd frontendmentor-huddle-landing-page
 # Install the dependencies.
 npm install
 
-# Run the development server. Vite is the default build tool.
+# Run the development server.
 npm run dev
 ```
-
-Then, open http://localhost:3000 with your browser to see the result
 
 ## Code formatting
 
@@ -32,10 +40,4 @@ To format the code with prettier, you can run the following command:
 npm run format
 ```
 
-However, this process is automated and done before each commit thanks to [husky](https://typicode.github.io/husky/) and [lint-staged](https://github.com/okonet/lint-staged).
-
-## Credits
-
--   [Mouhamadou Moustapha SISSOKHO](https://github.com/sissokho)
--   [Frontend Mentor](https://www.frontendmentor.io/)
-
+However, this process is automated and done before each commit using Git hooks thanks to [husky](https://typicode.github.io/husky/) and [lint-staged](https://github.com/okonet/lint-staged).
